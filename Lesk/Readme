@@ -2,7 +2,7 @@ This project has slightly more work on API look-up for third party libraries, bu
 
 The focus of this project is WSD (Word Sense Disambiguation). so we'll use the Stanford CoreNLP libraries for those tedious but fundamental processing (such as POS tagging, tokenization, lemmatization, etc.). I have the basic jar file of CoreNLP included in jars folder, but we'll need to download the model file (stanford-corenlp-3.8.0-models.jar) from the web since it is pretty large. Download this file and put it in the jars folder.
 
-The full Stanford core NLP package from https://stanfordnlp.github.io/CoreNLP/download.html.
+The full Stanford core NLP package can be downloaded from https://stanfordnlp.github.io/CoreNLP/download.html.
 MIT JWI can be downloaded from https://projects.csail.mit.edu/jwi/.
 
 The rest of the details on the project can be found in Project_Description.pdf. 
