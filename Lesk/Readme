@@ -8,6 +8,6 @@ MIT JWI can be downloaded from https://projects.csail.mit.edu/jwi/.
 The rest of the details on the project can be found in Project_Description.pdf. 
 
 Compiling and Running the project:
-On a terminal or any sunlab machine, execute the foloowing commands:
+On a terminal or any sunlab machine, execute the following commands:
 Compiling:  ./build_java.sh
 Running:  ./run_java.sh
